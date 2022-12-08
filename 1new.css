@@ -1,0 +1,21 @@
+
+.container-fluid{
+    background: #000046;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.total-bg-color{
+   background-color:black;
+}
+.carousel-item{
+    padding: 40px;
+    height: 100vh;
+    background-size: cover;
+}
+.button{
+    margin: 30vh;
+    border-radius: 20px;
+    background-color: black;
+    color:aqua; 
+}

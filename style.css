@@ -1,0 +1,43 @@
+.newyear-top-section {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PfaofIZeaZHy8PmYWD6vSL50umltI1VRyw&usqp=CAU");
+    height: 50vh;
+    background-size: cover;
+  }
+  .newyear-top-section-heading {
+    color: Lavender;
+    font-family: "Lucida Handwriting";
+    font-size: 36px;
+    width: 200px;
+    padding: 15px;
+  }
+  .newyear-bottom-section {
+    text-align:center;
+    background-color: MediumOrchid;
+    padding:15px;
+  }
+  .newyear-card-item {
+    text-align: center;
+    background-color: Thistle;
+    width:200px;
+    border-radius: 12px;
+    padding: 16px;
+    margin: 15px;
+  }
+  .newyear-card-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 12px;
+  }
+  .newyear-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .newyear-card-price {
+    color: indigo;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight:bold;
+  }
+  
